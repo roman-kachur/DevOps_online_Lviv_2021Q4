@@ -1,0 +1,25 @@
+$ git reflog
+dd27363 (HEAD -> master, origin/master, origin/developer, developer) HEAD@{0}: merge developer: Fast-forward
+91eea37 HEAD@{1}: checkout: moving from developer to master
+dd27363 (HEAD -> master, origin/master, origin/developer, developer) HEAD@{2}: commit (merge): Merge branch 'styles' into developer
+d5198e1 HEAD@{3}: merge images: Merge made by the 'recursive' strategy.
+c1f638d HEAD@{4}: checkout: moving from styles to developer
+a1ed766 (origin/styles, styles) HEAD@{5}: commit (amend): commit5. added styles to index.html
+c3f815d HEAD@{6}: checkout: moving from developer to styles
+c1f638d HEAD@{7}: checkout: moving from styles to developer
+c3f815d HEAD@{8}: commit (amend): commit5. added styles to index.html
+6a01190 HEAD@{9}: checkout: moving from developer to styles
+c1f638d HEAD@{10}: checkout: moving from styles to developer
+6a01190 HEAD@{11}: commit: commit5. added styles to index.html
+c1f638d HEAD@{12}: checkout: moving from developer to styles
+c1f638d HEAD@{13}: checkout: moving from images to developer
+226bfb3 (origin/images, images) HEAD@{14}: commit: commit4.add coffee.jpg
+0fb2308 HEAD@{15}: commit: commit3. images in images branch
+91eea37 HEAD@{16}: checkout: moving from master to images
+91eea37 HEAD@{17}: checkout: moving from developer to master
+c1f638d HEAD@{18}: checkout: moving from master to developer
+91eea37 HEAD@{19}: checkout: moving from developer to master
+c1f638d HEAD@{20}: commit: commit2. index.html in develooper branch
+91eea37 HEAD@{21}: checkout: moving from master to developer
+91eea37 HEAD@{22}: commit (initial): initial commit
+
